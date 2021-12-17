@@ -1,0 +1,12 @@
+*.egg-info
+*.png
+*.mid
+.coverage
+.ipynb_checkpoints
+.DS_Store
+*.npy
+*.csv
+**/__pycache__/
+.env
+data/
+.vscode/
